@@ -1,0 +1,9 @@
+
+.item {
+    color: black;
+    font-weight: bold;
+}
+
+.item-done {
+    color: gray;
+}
